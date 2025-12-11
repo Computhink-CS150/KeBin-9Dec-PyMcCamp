@@ -9,9 +9,9 @@ print("SIX SEVEN")
 
 ########################################################################
 # Task 2:
-myname = input ("what is your name")
 title = input ("what is your title")
-command 
+name = input ("what is your name")
+command = (what )
 
 
 ########################################################################
