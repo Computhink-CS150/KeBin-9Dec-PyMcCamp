@@ -25,7 +25,10 @@ print(num1 + " + " + num2 + " = " + str(answer))
 # Task 4:
 age1 = input("what is your age, person A")
 age2 = input("what is your age, person B")
-
+if int(age1) > int(age2):
+    print("person A is older")
+else:
+    print("person B is older")
 ########################################################################
 # Task 5:
 
