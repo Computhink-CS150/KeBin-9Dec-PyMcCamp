@@ -18,7 +18,7 @@ print(title + " " + " command you to ")
 num1 = input("enter number 1:")
 num2 = input("enter number 2:")
 answer = int(num1) + int (num2)
-print(num1 + " + " + num2)
+print(num1 + " + " + num2 + " = ")
 
 
 ########################################################################
