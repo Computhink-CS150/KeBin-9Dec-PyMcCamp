@@ -4,7 +4,7 @@ print("SIX SEVEN")
 
 ########################################################################
 # Task 1:
-myName = input("What is your name? ")
+myName = input("What is your name? Ke Bin. Hi kebin,github is skibidi sh*t")
 print(myName)
 
 ########################################################################
