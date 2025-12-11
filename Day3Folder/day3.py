@@ -12,7 +12,7 @@ print("SIX SEVEN")
 title = input ("what is your title")
 name = input ("what is your name")
 command = input ("what is your command")
-
+print(my)
 ########################################################################
 # Task 3:
 
