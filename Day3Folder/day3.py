@@ -28,7 +28,7 @@ age2 = input("what is your age, person B")
 if age1 > intage2:
     print("age1 is older")
 else:
-    print("person B is older")
+    print("age2 is older")
 ########################################################################
 # Task 5:
 
