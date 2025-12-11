@@ -4,8 +4,8 @@ print("SIX SEVEN")
 
 ########################################################################
 # Task 1:
-myName = input("What is your name? ")
-print(myName)
+# myName = input("What is your name? ")
+# print(myName)
 
 ########################################################################
 # Task 2:
