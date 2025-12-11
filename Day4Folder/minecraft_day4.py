@@ -86,4 +86,4 @@ def BuildBridge(height,width):
             agent.move(FORWARD, 1)
         agent.move(RIGHT, 1)
         agent.move(BACK, height)
-player.on_chat("roof", Buildroof)
+player.on_chat("roof", Buildroof)a
