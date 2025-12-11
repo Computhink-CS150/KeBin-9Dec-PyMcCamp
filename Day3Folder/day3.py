@@ -24,7 +24,7 @@ print(num1 + " + " + num2 + " = " + str(answer))
 ########################################################################
 # Task 4:
 age1 = input("what is your age, person A")
-age2 = input("what is your age")
+age2 = input("what is your age, person B")
 
 ########################################################################
 # Task 5:
