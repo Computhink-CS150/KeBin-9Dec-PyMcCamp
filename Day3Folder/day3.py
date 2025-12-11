@@ -15,7 +15,9 @@ command = input ("what is your command")
 print(title + " " + " command you to ")
 ########################################################################
 # Task 3:
-num1 = input(enter )
+num1 = input("enter number 1:")
+num2 = input("enter number 2:")
+
 
 
 ########################################################################
