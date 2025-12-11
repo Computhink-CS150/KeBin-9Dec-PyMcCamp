@@ -23,7 +23,7 @@ print(num1 + " + " + num2 + " = " + str(answer))
 
 ########################################################################
 # Task 4:
-age1 = input("what is your age, person A")
+age1 = input("Enter your age")
 age2 = input("Enter your age:")
 if age1 > age2:
     print("age1 is older")
