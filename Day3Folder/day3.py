@@ -17,7 +17,7 @@ print(title + " " + " command you to ")
 # Task 3:
 num1 = input("enter number 1:")
 num2 = input("enter number 2:")
-
+answer = int
 
 
 ########################################################################
